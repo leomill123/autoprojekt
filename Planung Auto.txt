@@ -1,0 +1,13 @@
+Planung:
+- kann Tankfülle angeben
+- Verbrauch pro 100km
+- Automarke ablesen
+- das Auto macht brumm, hat 0-100km/h angabe in Sekunden
+- Kilometerstand ablesen
+- Autopreis
+- information von Fahrzeug wird ausgeben
+- ist tank halbvoll oder nicht
+- Mietpreis
+- Auto buchen
+advanced (wenn wir zeit haben):
+- s-t diagramm
